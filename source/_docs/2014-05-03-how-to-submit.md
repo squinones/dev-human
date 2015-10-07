@@ -79,7 +79,7 @@ If you need some help with markdown, have a look at this very useful [markdown s
 
 ### 5. Add your info to "authors" (optional)
 
-Edit the file `app/sculpin_site.hml` in your forked repository. This configuration file has the list with all authors.
+Edit the file `app/sculpin_site.yml` in your forked repository. This configuration file has the list with all authors.
 This step is not mandatory, but it will add at the end of the post a nice box with information about the article author, **YOU**.
 You just need to add an item to the array, using the same author handle you used for the article meta data.
 
